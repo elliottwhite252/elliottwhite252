@@ -9,7 +9,9 @@ I'm a technical writer and program manager. I build documentation, localization,
 - Stood up localization in Lokalise across 11 languages, with an ESLint rule that blocks hard-coded strings.
 - Built docs-as-code tooling: GitHub Actions → GitBook publishing, a Google Docs → Zendesk sync, and a KB health-check agent in TypeScript.
 
-**Writing sample:** [Simulation Theory docs](https://elliottwhite252.github.io/simulation-theory/), a docs-as-code site built with MkDocs, Vale style linting and GitHub Actions.
+**Writing samples**
+- [Open-Meteo API guide](https://elliottwhite252.github.io/api-docs-sample/): tutorial, how-to guides and an OpenAPI reference for a public weather API
+- [Simulation Theory docs](https://elliottwhite252.github.io/simulation-theory/): a docs-as-code site for a game I built, with Vale style linting and GitHub Actions
 
 **Before that** I wrote docs at ServiceTitan (100 published articles in MadCap Flare), led docs at ZEFR, planned the teardown of a nuclear facility at Hanford, and wrote for DOE software platforms.
 
